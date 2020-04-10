@@ -4,5 +4,5 @@ The implementation of DCGAN using PyTorch to generate pokemons from random noise
 ### Visualization of Training Events 
 >![](/training-phases.gif)
 ### Visulaization of Result of Fake Images
->![](/results.png)
+>![](/result.png)
 
